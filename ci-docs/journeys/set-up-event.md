@@ -59,7 +59,7 @@ The **Agenda** tab includes details about the schedule of sessions happening dur
 - **Speaker engagements**: Each [speaker engagement](#speakers) maps a speaker to a session occurring at your event.
 - **Sponsors**: Companies who are [sponsoring the event](manage-event-sponsorships.md).
 
-### The Website and form tab
+### The Website and form tab   (** NOTE: The instructions fail to mention that events must be live for the URL to generate (and work))
 
 > [!NOTE]
 > The event portal landing page (event website) isn't currently available in real-time journeys. However, [marketing forms](real-time-marketing-form-create.md) for registration can serve as a viable alternative to showcase event details and facilitate the registration process.
